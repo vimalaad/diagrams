@@ -268,10 +268,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="2213.0992"
-     inkscape:cy="501.07738"
+     inkscape:cx="1043.9581"
+     inkscape:cy="862.33964"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1768"
      inkscape:window-height="963"
@@ -299,7 +299,9 @@
      sodipodi:insensitive="true">
     <g
        transform="translate(-0.25899364,-5.088238)"
-       id="g1254">
+       id="g1254"
+       inkscape:export-xdpi="960"
+       inkscape:export-ydpi="960">
       <rect
          inkscape:export-ydpi="320"
          inkscape:export-xdpi="320"
@@ -1711,8 +1713,18 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="CheatSheet"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.19180535;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1380"
+       width="124.82013"
+       height="77.328362"
+       x="249.62447"
+       y="5.5887427"
+       ry="0.28963578"
+       inkscape:export-filename="E:\InkscapePortable\Data\settings\rect1380.png"
+       inkscape:export-xdpi="960"
+       inkscape:export-ydpi="960" />
     <rect
        style="opacity:1;fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.18205136;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1374"
@@ -1720,7 +1732,9 @@
        height="208.27936"
        x="212.70921"
        y="85.703423"
-       ry="0.27126151" />
+       ry="0.27126151"
+       inkscape:export-xdpi="960"
+       inkscape:export-ydpi="960" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Far.Khodkar';-inkscape-font-specification:'Far.Khodkar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -2775,7 +2789,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Eco">
+     inkscape:label="Eco"
+     sodipodi:insensitive="true">
     <g
        id="g1581"
        transform="matrix(1.0000092,0,0,1.0351621,-8.4719283,-10.475348)"
@@ -2880,7 +2895,7 @@
          x="473.96127"
          y="208.52769"
          style="text-align:start;text-anchor:start;stroke-width:0.26458332"
-         id="tspan1370">Founder: Theo Hallenius</tspan></text>
+         id="tspan1370">Team: Ting Yang, Justin Hopper, Anton, Dennis, Tomislav, Tobi, Theo</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -2911,7 +2926,7 @@
          x="474.5007"
          y="156.84174"
          style="text-align:start;text-anchor:start;stroke-width:0.26458332"
-         id="tspan1357">Founder: Tomislav Grospić</tspan></text>
+         id="tspan1357">Team: Frank He, Tom Yi, Tomislav Grospić</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -2942,7 +2957,7 @@
          x="474.17487"
          y="181.31305"
          style="text-align:start;text-anchor:start;stroke-width:0.26458332"
-         id="tspan1342">Founder: Lucius Meredith</tspan><tspan
+         id="tspan1342">Team: Lucius Meredith</tspan><tspan
          sodipodi:role="line"
          x="474.17487"
          y="184.84082"
@@ -3281,7 +3296,9 @@
      sodipodi:insensitive="true">
     <g
        id="g1106"
-       transform="translate(217.01212,-37.952273)">
+       transform="translate(217.01212,-37.952273)"
+       inkscape:export-xdpi="960"
+       inkscape:export-ydpi="960">
       <g
          transform="matrix(0.4889156,0,0,0.4889156,191.90997,36.443604)"
          id="g1217">
